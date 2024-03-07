@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: #8003fc;
+}
+
+p {
+    font-size: 25px;
+    color: white;
+}
+
+p1 {
+    font-size: 30px;
+    color: #8003fc;
+}
+
+img {
+    height: 500px;
+}
+
+h2 {
+    color: #8003fc;
+}
